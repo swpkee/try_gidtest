@@ -4,9 +4,9 @@ At line:1 char:1
 
 - touch .gitignore
 - ```
-      + CategoryInfo          : ObjectNotFound: (touch:String) [], CommandNotFoundException
+      + CategoryInfo          : ObjfdfdfectNotFound: (touch:String) [], CommandNotFoundException
       + FullyQualifiedErrorId : CommandNotFoundException
-      git status
+      git statussdsdsd
   On branch master
   Your branch is up to date with 'origin/master'.
   ```
